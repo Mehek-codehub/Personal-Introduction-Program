@@ -1,0 +1,4 @@
+# No external libraries are required.
+# This project uses only Python's built-in features.
+
+Python>=3.10
